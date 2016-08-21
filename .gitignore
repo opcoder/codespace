@@ -1,5 +1,7 @@
+.vscode
+bin/
+obj/
 *.cbp
 *.o
 *.depend
-bin/
-obj/
+*.layout
